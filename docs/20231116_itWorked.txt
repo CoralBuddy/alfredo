@@ -1,0 +1,10 @@
+  357  nano ingredients.txt 
+  358  git status
+  359  git diff ingredients.txt 
+  360  git add ingredients.txt 
+  361  git status
+  362  git diff --staged
+  363  git commit -m 'sauce almost complete'
+  364  clear
+  365  history | tail
+  366  history | tail > 20231116_itWorked.txt
